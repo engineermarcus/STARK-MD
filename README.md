@@ -1,6 +1,6 @@
-<a><img height="400" width="400" style="float: right; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3); border-radius: 10px;" src='https://imgur.com/a/A7xjowd'/></a>
+<a><img height="400" width="400" style="float: right; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3); border-radius: 10px;" src='https://files.catbox.moe/6lbvg5.jpg'/></a>
 
-# <p align="center">🚀 Sᴛᴀʀᴋ-ᴍᴅ - The Ultimate WhatsApp Bot</p>
+# <p align="center">🚀 Sᴛᴀʀᴋ-ᴍᴅ - The Ultimate WhatsApp Bot Intergrated With Friday AI</p>
 
 Welcome to **Sᴛᴀʀᴋ-ᴍᴅ**, a next-generation WhatsApp bot designed to automate tasks, enhance functionality, and provide users with an all-in-one experience. Whether you need automation, downloads, or moderation tools, this bot has got you covered.  
 
@@ -37,7 +37,7 @@ Before using Sᴛᴀʀᴋ-ᴍᴅ, you'll need to generate a session code.
 
 Click below to **pair your session and get started!**  
 
-<a href="https://marcusmd-l4qc.onrender.com/pair">
+<a href="https://neiman-tech.onrender.com/code">
   <img src="https://img.shields.io/badge/Get%20Session%20Code-white?style=for-the-badge" alt="Pair Session Code">
 </a>
 
