@@ -50,8 +50,6 @@ Want to contribute or modify the bot? **Fork the repo and start building!**
    - **Start Command:** `node index.js`
 
 
-3. Click **"Save Changes"**.
-
 ### **Step 3: Deploy and Start the Bot**
 1. Click **"Deploy"** and wait for Render to build and start the bot.
 2. Once deployed, **copy the Render URL** (e.g., `https://your-bot.onrender.com`).
