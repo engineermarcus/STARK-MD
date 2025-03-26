@@ -1,4 +1,4 @@
-<a><img height="600" width="800" style="float: right; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3); border-radius: 10px;" src='https://files.catbox.moe/6muqoo.jpg'/></a>
+<a><img height="400" width="800" style="float: right; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3); border-radius: 10px;" src='https://files.catbox.moe/6muqoo.jpg'/></a>
 
 # <p align="center">🚀 Sᴛᴀʀᴋ-ᴍᴅ - The Ultimate WhatsApp Bot Intergrated With Friday AI</p>
 
