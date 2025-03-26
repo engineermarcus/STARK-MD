@@ -58,7 +58,7 @@ Want to contribute or modify the bot? **Fork the repo and start building!**
 
 ## 🔥 Keep the Bot Active (Using Uptime Robot)
 
-Render **sleeps after 15 minutes** of inactivity. To keep Sᴛᴀʀᴋ-ᴍᴅ **online 24/7**, use [Uptime Robot](https://uptimerobot.com/).
+Render **sleeps after 15 minutes** of inactivity when you are using a free tear. To keep Sᴛᴀʀᴋ-ᴍᴅ **online 24/7**, use [Uptime Robot](https://uptimerobot.com/).
 
 ### **Step 1: Create a Free Uptime Robot Account**
 1. Go to [Uptime Robot](https://uptimerobot.com/) and sign up.
