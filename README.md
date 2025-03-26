@@ -33,7 +33,7 @@ Want to contribute or modify the bot? **Fork the repo and start building!**
 
 ---
 
-## 🚀 Deploy on Render
+## 🚀 Deploy on Render For Free
 
 **Follow these steps to deploy Sᴛᴀʀᴋ-ᴍᴅ on [Render](https://render.com) and keep it online 24/7:**
 
@@ -46,18 +46,13 @@ Want to contribute or modify the bot? **Fork the repo and start building!**
 2. Click **"New +"** > **"Web Service"**.
 3. Select **"Deploy from GitHub"** and choose your **forked repository**.
 4. In the settings:
-   - **Build Command:** `npm install && npm run build`
+   - **Build Command:** `npm install`
    - **Start Command:** `node index.js`
 
-### **Step 3: Add Environment Variables**
-1. Go to **Settings** > **Environment Variables**.
-2. Add the following required variables:
-
-MONGO_URI = your_mongodb_atlas_connection_string GEMINI_API_KEY = your_gemini_api_key SESSION_ID = your_whatsapp_session_id
 
 3. Click **"Save Changes"**.
 
-### **Step 4: Deploy and Start the Bot**
+### **Step 3: Deploy and Start the Bot**
 1. Click **"Deploy"** and wait for Render to build and start the bot.
 2. Once deployed, **copy the Render URL** (e.g., `https://your-bot.onrender.com`).
 
