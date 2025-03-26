@@ -135,15 +135,16 @@ Sᴛᴀʀᴋ-ᴍᴅ is loaded with powerful features to enhance your WhatsApp ex
 ```sh
 git clone https://github.com/engineermarcus/STARK-MD.git
 cd STARK-MD
-
+```
 2. Install Dependencies
-
+```sh
 npm install
-
+```
 
 3. Start the Bot
-
+```
 node index.js
+```
 
 
 
