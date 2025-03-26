@@ -150,9 +150,15 @@ Get the latest updates, chat with other users, and request features.
 
 👥 Join Our WhatsApp Group
 
+
 <a href="https://chat.whatsapp.com/D0vchSlEREW3xHrAMo5p6Y" target="_blank">
   <img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>📢 Follow Our WhatsApp Channel
+
+
+---
+
+
 
 <a href="https://whatsapp.com/channel/0029Vb9EZIl60eBdl8fIY10p">
   <img src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" alt="WhatsApp Channel" width="100">
