@@ -163,9 +163,9 @@ Get the latest updates, chat with other users, and request features.
 <a href="https://whatsapp.com/channel/0029Vb9EZIl60eBdl8fIY10p">
   <img src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" alt="WhatsApp Channel" width="100">
 </a>
----
 
-💡 Need Help?
+
+## 💡 Need Help?
 
 If you run into any issues:
 
