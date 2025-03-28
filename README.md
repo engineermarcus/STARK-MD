@@ -37,7 +37,7 @@ Before using Sᴛᴀʀᴋ-ᴍᴅ, you'll need to generate a session code.
 
 Click below to **pair your session and get started!**  
 
-<a href="https://marcusmd-l4qc.onrender.com/pair">
+<a href="https://neiman-tech.onrender.com/code">
   <img src="https://img.shields.io/badge/Get%20Session%20Code-white?style=for-the-badge" alt="Pair Session Code">
 </a>
 
