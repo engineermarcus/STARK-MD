@@ -1,4 +1,4 @@
-<a><img height="400" width="400" style="float: right; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3); border-radius: 10px;" src='https://imgur.com/a/A7xjowd'/></a>
+<a><img height="400" width="400" style="float: right; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3); border-radius: 10px;" src='https://files.catbox.moe/n1fezz.jpg'/></a>
 
 # <p align="center">🚀 Sᴛᴀʀᴋ-ᴍᴅ - The Ultimate WhatsApp Bot</p>
 
