@@ -81,7 +81,7 @@ module.exports = async (context) => {
         }
 
         // ✅ FIXED IMAGE URL FORMAT
-        const imageUrl = "https://files.catbox.moe/ok5inz.jpg";
+        const imageUrl = "https://files.catbox.moe/n1fezz.jpg";
 
         // ✅ Send menu message with error handling
         await sendMediaMessage(client, m, {
